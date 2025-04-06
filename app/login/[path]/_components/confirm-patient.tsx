@@ -8,7 +8,7 @@ const ConfirmPatient = () => {
       <div>ConfirmPatient</div>
       <Link
         href='/login/booking'
-        className='border rounded-md py-2 px-5 bg-blue-400'
+        className='border rounded-md py-2 px-5 bg-blue-400 text-black'
       >
         Book an Appt
       </Link>

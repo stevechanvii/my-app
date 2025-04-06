@@ -23,6 +23,8 @@ const page = async ({ params }: Props) => {
   const patient: PatientTypes = {
     // patientID: 'mock_id',
     // insurance: 'medupa_racv',
+    flag_a: true,
+    flag_b: true,
     // ...others
   };
 
